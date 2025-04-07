@@ -1,0 +1,30 @@
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.exe
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.dll.config
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.deps.json
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.runtimeconfig.json
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Acceso Empleados PGA.pdb
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Entidades.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\LogicaChecadores.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\Entidades.pdb
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\bin\Release\net6.0-windows\LogicaChecadores.pdb
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.csproj.AssemblyReference.cache
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso_Empleados_PGA.frmChecada.resources
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso_Empleados_PGA.Properties.Resources.resources
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.csproj.GenerateResource.cache
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.AssemblyInfoInputs.cache
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.AssemblyInfo.cs
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.csproj.CoreCompileInputs.cache
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso E.F1754C7E.Up2Date
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\refint\Acceso Empleados PGA.dll
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.pdb
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\Acceso Empleados PGA.genruntimeconfig.cache
+C:\Users\adminemeza\Desktop\Nuevacarpeta\Acceso Empleados PGA\Acceso Empleados PGA\obj\Release\net6.0-windows\ref\Acceso Empleados PGA.dll

@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Acceso Empleados PGA\\Acceso Empleados PGA\\Acceso Empleados PGA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Acceso Empleados PGA\\Acceso Empleados PGA\\Acceso Empleados PGA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Acceso Empleados PGA\\Acceso Empleados PGA\\Acceso Empleados PGA.csproj",
+        "projectName": "Acceso Empleados PGA",
+        "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Acceso Empleados PGA\\Acceso Empleados PGA\\Acceso Empleados PGA.csproj",
+        "packagesPath": "C:\\Users\\adminemeza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Acceso Empleados PGA\\Acceso Empleados PGA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adminemeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\LogicaChecadores\\LogicaChecadores.csproj": {
+                "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\LogicaChecadores\\LogicaChecadores.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\LogicaChecadores\\LogicaChecadores.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\LogicaChecadores\\LogicaChecadores.csproj",
+        "projectName": "LogicaChecadores",
+        "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\LogicaChecadores\\LogicaChecadores.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\adminemeza\\Desktop\\Nuevacarpeta\\Control Checadas\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
